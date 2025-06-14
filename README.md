@@ -46,4 +46,4 @@ thien-do-hoa/
 ~~~
 
 ## ▶️ Vào trang web
-Bạn có thể vào trang web mà không cần cài gì cả 👉(Vào trang web tại đây)[https://tri1407/github.io/Thien-Do-Hoa] 
+Bạn có thể vào trang web mà không cần cài gì cả 👉[Vào trang web tại đây](https://tri1407/github.io/Thien-Do-Hoa)
