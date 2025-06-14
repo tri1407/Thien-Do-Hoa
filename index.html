@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thiện Đồ Họa</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <header>
+    <h1>Thiện Đồ Họa</h1>
+    <p>Họa sĩ kĩ thuật số – Sống với cảm hứng và đam mê</p>
+  </header>
+
+  <div class="tabs">
+    <button class="tab-button active" onclick="showTab('intro')">Giới thiệu</button>
+    <button class="tab-button" onclick="showTab('evaluate')">Đánh giá</button>
+    <button class="tab-button" onclick="showTab('advice')">Lời khuyên</button>
+  </div>
+
+  <div id="intro" class="content active">
+    <img src="thien-do-hoa-1.jpg" alt="Ảnh Thiện Đồ Họa bấm điện thoại" class="profile-img">
+    <div class="card">
+      <h2>Về Thiện Đồ Họa</h2>
+      <p><strong>Thiện Đồ Họa</strong> là một nhà thiết kế trẻ với phong cách táo bạo và đậm chất cá nhân.</p>
+      <p>Dù còn trẻ tuổi, Thiện đã thành thạo các phần mềm như Photoshop, Illustrator, InDesign và tạo ra hàng loạt sản phẩm sáng tạo khiến bạn bè phải trầm trồ. Dù hay thức khuya và lười việc nhà, Thiện vẫn luôn cống hiến hết mình cho nghệ thuật số.</p>
+    </div>
+  </div>
+
+  <div id="evaluate" class="content">
+    <img src="thien-do-hoa-1.jpg" alt="Ảnh Thiện Đồ Họa bấm điện thoại" class="profile-img">
+    <div class="card">
+      <h2>Ưu điểm và khuyết điểm</h2>
+      <h3>Ưu điểm</h3>
+      <ul>
+        <li>Có óc sáng tạo, trí tưởng tượng phong phú</li>
+        <li>Đam mê với nghệ thuật</li>
+      </ul>
+      <h3>Khuyết điểm</h3>
+      <ul>
+        <li>Hay thức đêm, ngủ muộn</li>
+        <li>Uống nhiều cà phê, nước ngọt</li>
+        <li>Lười làm việc nhà</li>
+        <li>Tính cách trẻ con, hay xen vào chuyện người khác</li>
+      </ul>
+      <p>Đoạn âm thanh được ghi lại từ Thiện Đồ Họa</p>
+      <audio src="thien-do-hoa-1.mp3" controls></audio>
+      <p>Cả đây nữa</p>
+      <audio src="thien-do-hoa-2.mp3" controls></audio>
+    </div>
+  </div>
+  <div id="advice" class="content">
+    <img src="thien-do-hoa-1.jpg" alt="Ảnh Thiện Đồ Họa bấm điện thoại" class="profile-img">
+    <div class="card">
+      <h2>Nhắn gửi Thiện Đồ Họa</h2>
+      <p>Mặc dù có tài năng hội họa, Thiện vẫn nên quan tâm đến thực tế và trở thành một con người đủ chín chắn, trưởng thành, biết quan tâm đến người khác.</p>
+      <p>🎉🎉Chúc Thiện có thể gặt hái được nhiều thành công trong cuộc sống.</p>
+    </div>
+  </div>
+  <footer>
+    © 2025 Thiện Đồ Họa. Sáng tạo là không giới hạn.
+  </footer>
+
+  <script>
+    function showTab(id) {
+      document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+      document.querySelectorAll('.content').forEach(div => div.classList.remove('active'));
+      document.querySelector('.tab-button[onclick*="' + id + '"]').classList.add('active');
+      document.getElementById(id).classList.add('active');
+    }
+  </script>
+
+</body>
+</html>
