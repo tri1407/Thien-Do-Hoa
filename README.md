@@ -4,12 +4,12 @@
 
 ## 📌 Giới thiệu
 
-**"Thiện Đồ Họa"** là một dự án web tôn vinh người nghệ sĩ trẻ đầy sáng tạo – **Nguyễn Đức Thiện**, biệt danh "Thiện Đồ Họa". Với khả năng thiết kế xuất sắc, gu thẩm mỹ cá tính và lối sống "thức khuya thành huyền thoại", anh là hình tượng điển hình của thế hệ designer Gen Z – tài năng nhưng không thiếu những... tật xấu nổi bật.
+**"Thiện Đồ Họa"** là một dự án web vinh danh **Nguyễn Đức Thiện** – chàng trai trẻ mang trong mình đam mê mãnh liệt với thiết kế, sáng tạo và nghệ thuật số. Với khả năng cảm màu tốt, khiếu thẩm mỹ độc đáo và tinh thần tự do, anh là linh hồn sáng tạo của cả nhà.
 
-Dự án được xây dựng như một hồ sơ cá nhân mang phong cách hiện đại, pha trộn giữa sự ngưỡng mộ và những tiếng thở dài hài hước:
-- Ghi nhận tài năng thiết kế và thành tích học tập liên quan đến đồ họa.
-- Tái hiện các thói quen "gây ám ảnh" như chơi game khuya, lười dọn nhà, nhắn tin xen chuyện bạn bè.
-- Trích đoạn ghi âm hiếm hoi thể hiện suy nghĩ chân thật của Thiện.
+Trang web không chỉ là một hồ sơ cá nhân, mà còn là nơi truyền cảm hứng cho thế hệ trẻ yêu nghệ thuật, phản ánh:
+- Quá trình học tập và phát triển trong lĩnh vực thiết kế đồ họa.
+- Phong cách sống năng động, cá tính và giàu bản sắc riêng.
+- Sự ủng hộ và tự hào từ gia đình dành cho Thiện.
 
 ## 💻 Công nghệ sử dụng
 
