@@ -16,7 +16,8 @@ Trang web không chỉ là một hồ sơ cá nhân, mà còn là nơi truyền 
 - HTML5 + CSS3 thuần
 - Thiết kế responsive đơn giản, dễ hiển thị trên mọi thiết bị
 - Hiệu ứng nhẹ nhàng, không làm rối bố cục như tâm trí Thiện lúc thiếu ngủ
-- Ảnh được sử dụng: `thien-do-hoa-1.jpg`
+- Ảnh được sử dụng: `thien-do-hoa-1.jpg`, `thien-do-hoa-2.jpg`
+- Âm thanh được sử dụng: `thien-do-hoa-1.mp3`, `thien-do-hoa-2.mp3`
 
 ## 🧠 Mục tiêu dự án
 
